@@ -57,6 +57,10 @@
 - `paper-board-html`：将看板内容渲染为 HTML。
 - `query-webapp-builder`：从结构化数据构建查询 Webapp。
 - `videocut-skills`：视频剪辑与清理 Skill。
+- `课程能力转AI工具`：把一门课程的方法论迁移为可复用 AI 工具 / PRD。
+- `AI调研教练对话`：用结构化多轮对话完成证据型调研。
+- `证据型追问`：把 AI 的推理型回答升级为证据型回答。
+- `如何做成好的Skill`：判断课程资料是否值得做 Skill，并做出可测试、可安装、可迭代的 Skill。
 
 ## 目录结构
 
@@ -129,6 +133,10 @@ Standalone skill specifications kept as single Markdown files.
 - `paper-board-html`: render paper board content as HTML.
 - `query-webapp-builder`: build query webapps from structured data.
 - `videocut-skills`: video editing skills for cutting and cleanup.
+- `course-to-ai-tool`: turn a course methodology into a reusable AI tool / PRD.
+- `ai-research-coach-chat`: complete evidence-based research through structured multi-turn dialogue.
+- `evidence-pusher`: upgrade AI reasoning answers into evidence-based answers.
+- `good-skill-maker`: judge whether course material is worth turning into a skill, and build a testable, installable, iterable skill.
 
 ## Structure
 
