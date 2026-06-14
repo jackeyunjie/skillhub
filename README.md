@@ -20,6 +20,13 @@
 - `business-formula-causality-checker`：审视指标关系是否足够因果，足以指导决策。
 - `business-formula-instrumentation-planner`：为公式设计数据节点与证据层。
 
+### 建模（Modeling）
+
+- `modeling-router`：当用户只说“建模”但层级不明时，路由到流程建模、抽象建模或本质提炼。
+- `modeling-60-process`：把容易出错的重复任务沉淀为 checklist、SOP 或流程模型。
+- `modeling-75-abstract`：把个人直觉/评审经验抽象为可复用的评估框架与评分维度。
+- `modeling-85-essence`：把复杂话题压缩成能指导下一步决策的本质定义。
+
 ### 精益验证
 
 - `lean-hypothesis-decomposer`：把想法拆分为可排序的验证假设。
@@ -84,6 +91,13 @@ Global, platform-neutral Agent skills for business formula analysis, lean valida
 - `business-formula-qual-to-quant-converter`: turn fuzzy business judgments into measurable indicators.
 - `business-formula-causality-checker`: audit whether a metric relationship is causal enough for decisions.
 - `business-formula-instrumentation-planner`: design data nodes and evidence layers behind formulas.
+
+### Modeling
+
+- `modeling-router`: route a modeling request to the right layer when the user is unclear.
+- `modeling-60-process`: turn error-prone repeated tasks into checklists, SOPs, or process models.
+- `modeling-75-abstract`: convert personal judgment into reusable evaluation frameworks and scoring dimensions.
+- `modeling-85-essence`: compress complex topics into essence definitions that guide real decisions.
 
 ### Lean Validation
 
