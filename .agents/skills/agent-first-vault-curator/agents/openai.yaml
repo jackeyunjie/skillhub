@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Agent First Vault Curator"
+  short_description: "Turn landing docs into a reusable Obsidian vault"
+  default_prompt: "Use $agent-first-vault-curator to turn this landing document into a structured Obsidian vault with concepts, workflows, skills, and agents."
