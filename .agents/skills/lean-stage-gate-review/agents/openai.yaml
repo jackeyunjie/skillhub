@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lean Stage Gate Review"
+  short_description: "Judge validation evidence before more investment"
+  default_prompt: "Use $lean-stage-gate-review to decide whether this validation result is enough to advance, continue testing, pivot, or stop."

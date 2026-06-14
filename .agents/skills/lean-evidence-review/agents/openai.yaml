@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lean Evidence Review"
+  short_description: "Review validation evidence and choose status"
+  default_prompt: "Use $lean-evidence-review to classify these validation notes or data into evidence level, status, what is proven, and next action."

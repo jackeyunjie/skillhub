@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Formula Parameter Deepener"
+  short_description: "Push metrics down to actionable parameters"
+  default_prompt: "Use $business-formula-parameter-deepener to decompose this metric beyond L1-L2 into segment, node, behavior, and action parameters."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Formula Paradigm Selector"
+  short_description: "Choose formula families before metric decomposition"
+  default_prompt: "Use $business-formula-paradigm-selector to identify the business type, current bottleneck, correct formula family, and tempting but wrong formula family."

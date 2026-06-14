@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Formula Causality Checker"
+  short_description: "Check whether a formula relationship is causal"
+  default_prompt: "Use $business-formula-causality-checker to audit whether this claimed driver is causal enough for decision-making, including alternative explanations and missing evidence."

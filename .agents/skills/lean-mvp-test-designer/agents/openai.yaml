@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lean MVP Test Designer"
+  short_description: "Design low-cost tests for risky assumptions"
+  default_prompt: "Use $lean-mvp-test-designer to design the smallest credible MVP test for this assumption, including thresholds, sample, recording fields, and next actions."

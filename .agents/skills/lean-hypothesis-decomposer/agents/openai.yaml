@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lean Hypothesis Decomposer"
+  short_description: "Decompose ideas into ranked validation hypotheses"
+  default_prompt: "Use $lean-hypothesis-decomposer to break this idea into key assumptions, risk order, the critical assumption to test first, and clear invalidation conditions."

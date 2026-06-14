@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Formula Core Contradiction"
+  short_description: "Find the real bottleneck before formula work"
+  default_prompt: "Use $business-formula-core-contradiction-finder to diagnose the surface symptom, false contradiction, real contradiction, and next formula family."

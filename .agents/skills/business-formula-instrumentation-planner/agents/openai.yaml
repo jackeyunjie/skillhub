@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Formula Instrumentation Planner"
+  short_description: "Plan data nodes behind business formulas"
+  default_prompt: "Use $business-formula-instrumentation-planner to design the data nodes, event tracking, evidence sequence, and monitoring metrics for this formula hypothesis."

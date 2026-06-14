@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Formula Qual To Quant"
+  short_description: "Turn fuzzy business judgments into metrics"
+  default_prompt: "Use $business-formula-qual-to-quant-converter to turn this qualitative judgment into observable behaviors, measurable metrics, and minimum viable definitions."
