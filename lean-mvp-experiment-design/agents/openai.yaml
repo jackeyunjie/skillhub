@@ -1,0 +1,4 @@
+interface:
+  display_name: "低成本实验设计"
+  short_description: "把核心假设转成最轻量验证方案"
+  default_prompt: "Use $lean-mvp-experiment-design to design a low-cost validation experiment for this hypothesis."
