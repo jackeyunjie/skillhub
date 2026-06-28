@@ -1,0 +1,4 @@
+interface:
+  display_name: "私董会分组落地"
+  short_description: "结构化S级私董会分组、角色与治理机制"
+  default_prompt: "Use $s-private-board-grouping to structure S-level private board grouping rules and role mechanisms."

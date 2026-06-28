@@ -1,0 +1,4 @@
+interface:
+  display_name: "验证里程碑复盘"
+  short_description: "判断样本、轮次和是否进入下一阶段"
+  default_prompt: "Use $validation-milestone-review to review validation evidence and decide the next milestone."

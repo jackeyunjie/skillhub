@@ -1,0 +1,4 @@
+interface:
+  display_name: "精益验证分流"
+  short_description: "判断该调研、访谈、竞品研究还是做实验"
+  default_prompt: "Use $lean-validation-triage to decide the lowest-cost way to validate this business uncertainty."
